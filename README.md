@@ -1,4 +1,4 @@
-# heroService
+# Flutter Project HeroService
 
 Flutter Advanced x IT Genius Engineering Day1
 
