@@ -1,6 +1,6 @@
-# heroService
+# Flutter Project HeroService
 
-A new Flutter project.
+Flutter Advanced x IT Genius Engineering Day1
 
 ## Getting Started
 
