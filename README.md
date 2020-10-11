@@ -1,6 +1,6 @@
 # Flutter Project HeroService
 
-Flutter Advanced x IT Genius Engineering Day1
+Flutter Advanced x IT Genius Engineering
 
 ## Getting Started
 
